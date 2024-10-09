@@ -1,4 +1,4 @@
-﻿Airports,Periods,Aircraft movements/Cross-country flights (number),Aircraft movements/Local flights (number),Commercial air traffic/Flights/All flights/Total flights (number),Commercial air traffic/Flights/All flights/Scheduled (number),Commercial air traffic/Passengers/Total passengers/Total passengers (number),Commercial air traffic/Cargo/Total cargo/Total cargo (ton),Commercial air traffic/Mail/Total mail/Total mail (ton)
+﻿Airports,Periods,Cross-country flights (number),Local flights (number),Commercial air traffic/Flights/All flights/Total flights (number),Commercial air traffic/Flights/All flights/Scheduled (number),Total passengers (number),Total cargo (ton),Total mail (ton)
 Total Dutch airports,2019 January,43492,3547,41285,40217,5495052,133445,1615
 Total Dutch airports,2019 February,41972,3564,39204,38408,5352301,128322,1398
 Total Dutch airports,2019 March,47712,3992,44649,43828,6270788,155427,1761
