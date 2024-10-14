@@ -26,6 +26,19 @@ Python 3.12.3
 `seaborn`
 
 `numpy`
+
 `statsmodels.api`
 
 `statsmodels.tsa.stattools`
+
+`statsmodels.tsa.seasonal`
+
+`statsmodels.tsa.arima.model`
+
+`sklearn.linear_model`
+
+`sklearn.metrics`
+
+`sklearn.ensemble`
+
+`sklearn.model_selection`
