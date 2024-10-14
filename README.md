@@ -1,11 +1,12 @@
-*<style>
+# TIL6022-groupproject
+
+<style>
     p {
         line-height: 1.5; /* 设置行距为1.5倍 */
         margin-bottom: 20px; /* 设置段落底部的间距 */
     }
-</style>*
+</style>
 
-# TIL6022-groupproject
 This is the group project for TIL6022 Python Programming course. In the project, a python data analysis and prediction is conducted to see the impact of covid on Netherlands aviation activities. 
 
 # Layout
