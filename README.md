@@ -9,3 +9,16 @@ This is the group project for TIL6022 Python Programming course. In the project,
 [figure](./project/figure): where all the output figures are stored.
 
 [report](./project/report): detailed report of the project, including one `.ipynb` file and its corresponding `.html` file.
+
+[code](./project/code): where all the coding files are stored.
+
+# Prerequisite
+Python 3.12.3
+`pandas
+dateutil
+matplotlib.pyplot
+matplotlib.ticker
+seaborn
+numpy
+statsmodels.api
+statsmodels.tsa.stattools`
