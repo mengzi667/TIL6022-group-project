@@ -15,18 +15,18 @@ This is the group project for TIL6022 Python Programming course. In the project,
 # Prerequisite
 Python 3.12.3\
 
-`pandas\
+`pandas`\
 
-dateutil\
+`dateutil`\
 
-matplotlib.pyplot\
+`matplotlib.pyplot`\
 
-matplotlib.ticker\
+`matplotlib.ticker`\
 
-seaborn\
+`seaborn`\
 
-numpy\
+`numpy`\
 
-statsmodels.api\
+`statsmodels.api`\
 
-statsmodels.tsa.stattools`
+`statsmodels.tsa.stattools`\
