@@ -49,3 +49,11 @@ Python 3.12.3
 
 # Contributors
 @[mengzi667](https://github.com/mengzi667)
+
+@[LuizLi](https://github.com/LuizLi)
+
+@[silinlinlinlinlin](https://github.com/silinlinlinlinlin)
+
+@[yueguo-tud21](https://github.com/yueguo-tud21)
+
+@[yxy-hub](https://github.com/yxy-hub)
