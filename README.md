@@ -3,3 +3,4 @@ This is the group project for TIL6022 Python Programming course. In the project,
 
 # Layout
 [data](./project/data): where all the datasets are stored.
+[figure].(./project/figure): 
